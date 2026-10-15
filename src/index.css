@@ -1,0 +1,209 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+  }
+  
+  h1, h2, h3, .font-serif-culture {
+    font-family: 'Playfair Display', Georgia, serif;
+  }
+
+  .font-ornate {
+    font-family: 'Cinzel', serif;
+  }
+}
+
+/* Custom traditional scrollbar & animations */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #fbf8f3;
+}
+::-webkit-scrollbar-thumb {
+  background: #d97706;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #b45309;
+}
+
+/* Animations for Interactive Character Măng Non */
+@keyframes mangNonBreathe {
+  0%, 100% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(-2.5px);
+  }
+}
+
+@keyframes mangNonBlink {
+  0%, 94%, 100% {
+    opacity: 0;
+    transform: scaleY(0);
+  }
+  96%, 98% {
+    opacity: 1;
+    transform: scaleY(1);
+  }
+}
+
+@keyframes mangNonTalk {
+  0%, 100% {
+    transform: scaleY(0.4);
+    opacity: 0.6;
+  }
+  50% {
+    transform: scaleY(1.1);
+    opacity: 1;
+  }
+}
+
+
+@keyframes layerFloat {
+  0%, 100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-5px);
+  }
+}
+
+@keyframes mangNonSecondaryFloat {
+  0%, 100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-4px);
+  }
+}
+
+@keyframes layerBounce {
+  0%, 100% {
+    transform: translateY(0);
+  }
+  40% {
+    transform: translateY(-8px);
+  }
+  60% {
+    transform: translateY(-2px);
+  }
+}
+
+@keyframes layerPulse {
+  0%, 100% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.04);
+  }
+}
+
+/* 0.5x speed: doubled duration to 6.4s for gentle, calm, smooth floating */
+.animate-mang-non-breathe {
+  animation: mangNonBreathe 6.4s ease-in-out infinite;
+}
+
+.animate-mang-non-blink {
+  animation: mangNonBlink 4s ease-in-out infinite;
+}
+
+.animate-mang-non-talk {
+  animation: mangNonTalk 0.22s ease-in-out infinite;
+}
+
+
+.animate-layer-breathe {
+  animation: mangNonBreathe 6.4s ease-in-out infinite;
+}
+
+.animate-layer-float {
+  animation: layerFloat 6.4s ease-in-out infinite;
+}
+
+.animate-mang-non-main-float {
+  animation: layerFloat 6.4s ease-in-out infinite;
+  will-change: transform;
+}
+
+.animate-mang-non-secondary-float {
+  animation: mangNonSecondaryFloat 6.8s ease-in-out infinite;
+  will-change: transform;
+}
+
+.animate-layer-bounce {
+  animation: layerBounce 2s ease-in-out infinite;
+}
+
+.animate-layer-pulse {
+  animation: layerPulse 2.5s ease-in-out infinite;
+}
+
+/* Entrance Animations for Măng Non Characters */
+@keyframes mangNonMainEntrance {
+  0% {
+    opacity: 0;
+    transform: translate3d(-100%, 0, 0);
+  }
+  68% {
+    opacity: 1;
+    transform: translate3d(8px, 0, 0);
+  }
+  84% {
+    transform: translate3d(-2.5px, 0, 0);
+  }
+  94% {
+    transform: translate3d(0.8px, 0, 0);
+  }
+  100% {
+    opacity: 1;
+    transform: translate3d(0, 0, 0);
+  }
+}
+
+@keyframes mangNonSecondaryEntrance {
+  0% {
+    opacity: 0;
+    transform: translate3d(100%, 0, 0);
+  }
+  68% {
+    opacity: 1;
+    transform: translate3d(-8px, 0, 0);
+  }
+  84% {
+    transform: translate3d(2.5px, 0, 0);
+  }
+  94% {
+    transform: translate3d(-0.8px, 0, 0);
+  }
+  100% {
+    opacity: 1;
+    transform: translate3d(0, 0, 0);
+  }
+}
+
+.animate-mang-non-main-entrance {
+  animation: mangNonMainEntrance 700ms cubic-bezier(0.22, 1, 0.36, 1) both;
+  will-change: transform, opacity;
+}
+
+.animate-mang-non-secondary-entrance {
+  animation: mangNonSecondaryEntrance 800ms cubic-bezier(0.22, 1, 0.36, 1) 180ms both;
+  will-change: transform, opacity;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .animate-mang-non-main-entrance,
+  .animate-mang-non-secondary-entrance,
+  .animate-mang-non-main-float,
+  .animate-mang-non-secondary-float,
+  .animate-layer-float,
+  .animate-layer-breathe {
+    animation: none !important;
+    opacity: 1 !important;
+    transform: none !important;
+  }
+}

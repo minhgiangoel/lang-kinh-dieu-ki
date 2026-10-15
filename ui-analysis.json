@@ -1,0 +1,1055 @@
+{
+  "home.png": {
+    "screen_details": {
+      "screen_name": "Trang chủ (Home Page)",
+      "theme": "Heritage/Cultural preservation"
+    },
+    "text_content": [
+      "LĂNG KÍNH DIỆU KÌ",
+      "ĐÌNH LÀNG SỞ THƯỢNG",
+      "Trang chủ",
+      "Giới thiệu",
+      "Khám phá di tích",
+      "Lễ hội",
+      "Giá trị di sản",
+      "Gìn giữ",
+      "Thư viện",
+      "KHÁM PHÁ DI SẢN QUÊ HƯƠNG",
+      "ĐÌNH LÀNG SỞ THƯỢNG",
+      "Nơi lưu giữ những giá trị lịch sử, văn hóa và nghệ thuật của người dân vùng đất ngàn năm văn hiến.",
+      "Khám phá ngay",
+      "“Giữ gìn di sản là giữ gìn cội nguồn của chính chúng ta.”",
+      "GIỚI THIỆU CHUNG",
+      "Đình làng Sở Thượng",
+      "Đình làng Sở Thượng là một di tích Lịch sử - Nghệ thuật của Hà Nội, gắn với lịch sử lâu đời, kiến trúc truyền thống và những giá trị văn hóa đặc sắc của người dân địa phương. Đình là nơi thờ Linh Lang Đại Vương, đồng thời là không gian sinh hoạt văn hóa, tín ngưỡng quan trọng của cộng đồng.",
+      "Tìm hiểu thêm",
+      "Cùng Măng Non khám phá những câu chuyện thú vị về đình làng Sở Thượng nhé!"
+    ],
+    "interactive_elements": [
+      {
+        "label": "Trang chủ",
+        "purpose": "Navigate to Home",
+        "box_2d": [
+          18,
+          327,
+          56,
+          381
+        ]
+      },
+      {
+        "label": "Giới thiệu",
+        "purpose": "Navigate to Introduction",
+        "box_2d": [
+          18,
+          403,
+          56,
+          452
+        ]
+      },
+      {
+        "label": "Khám phá di tích",
+        "purpose": "Navigate to Explore Monuments",
+        "box_2d": [
+          18,
+          474,
+          56,
+          558
+        ]
+      },
+      {
+        "label": "Lễ hội",
+        "purpose": "Navigate to Festivals",
+        "box_2d": [
+          18,
+          581,
+          56,
+          615
+        ]
+      },
+      {
+        "label": "Giá trị di sản",
+        "purpose": "Navigate to Heritage Values",
+        "box_2d": [
+          18,
+          638,
+          56,
+          703
+        ]
+      },
+      {
+        "label": "Gìn giữ",
+        "purpose": "Navigate to Preservation",
+        "box_2d": [
+          18,
+          725,
+          56,
+          765
+        ]
+      },
+      {
+        "label": "Thư viện",
+        "purpose": "Navigate to Library",
+        "box_2d": [
+          18,
+          788,
+          56,
+          833
+        ]
+      },
+      {
+        "label": "Search Icon",
+        "purpose": "Open search field",
+        "box_2d": [
+          15,
+          896,
+          60,
+          922
+        ]
+      },
+      {
+        "label": "Khám phá ngay",
+        "purpose": "Navigate to main exploration page",
+        "box_2d": [
+          468,
+          215,
+          532,
+          370
+        ]
+      },
+      {
+        "label": "Tìm hiểu thêm",
+        "purpose": "Navigate to detailed information page",
+        "box_2d": [
+          902,
+          440,
+          951,
+          580
+        ]
+      }
+    ]
+  },
+  "history.png": {
+    "screen_name": "Lịch sử hình thành và những đổi thay",
+    "theme": "Cultural heritage / Historical introduction",
+    "text_content": [
+      "LĂNG KÍNH DIỆU KÌ",
+      "ĐÌNH LÀNG SỞ THƯỢNG",
+      "Trang chủ",
+      "Giới thiệu",
+      "Khám phá di tích",
+      "Lễ hội",
+      "Giá trị di sản",
+      "Gìn giữ",
+      "Thư viện",
+      "Cùng Măng Non tìm hiểu những câu chuyện thú vị Sở Thượng nhé!",
+      "Giới thiệu",
+      "ĐÌNH LÀNG SỞ THƯỢNG",
+      "“Mỗi di tích đều lưu giữ một phần ký ức của quê hương.”",
+      "Trang chủ > Giới thiệu",
+      "1. Vị trí di tích",
+      "2. Lịch sử hình thành và những đổi thay",
+      "3. Nhân vật lịch sử",
+      "4. Kiến trúc",
+      "5. Những đồ vật được lưu giữ",
+      "2. Lịch sử hình thành và những đổi thay",
+      "Theo lời kể của các bậc cao niên và những tư liệu còn lưu giữ, đình làng Sở Thượng đã trải qua nhiều giai đoạn thăng trầm. Dù có nhiều thay đổi, ngôi đình vẫn lưu giữ những giá trị lịch sử, văn hóa quý báu của làng Sở Thượng.",
+      "Thời Lê (trước năm 1683)",
+      "Đình làng Sở Thượng được xây dựng từ thời Lê, trước năm 1683, theo lời kể của các bậc cao niên và những tư liệu còn lưu giữ.",
+      "Thời kỳ kháng chiến chống thực dân Pháp",
+      "Trong thời kỳ kháng chiến chống thực dân Pháp, đình là nơi hoạt động bí mật của cán bộ cách mạng và du kích.",
+      "Sau kháng chiến",
+      "Sau đó, đình bị phá để phục vụ kháng chiến; khi hòa bình lập lại, người dân dựng một ngôi nhà nhỏ để tiếp tục thờ phụng.",
+      "Năm 2007 chuyển đến vị trí hiện nay",
+      "Năm 2007, khi thành phố mở rộng đường vành đai 3, đình được chuyển đến vị trí hiện nay.",
+      "Dù trải qua nhiều biến cố và thay đổi, đình làng Sở Thượng vẫn là nơi lưu giữ những giá trị lịch sử, văn hóa quý báu của quê hương."
+    ],
+    "interactive_elements": [
+      {
+        "label": "Trang chủ",
+        "purpose": "Navigate to home page",
+        "box_2d": [
+          18,
+          331,
+          51,
+          386
+        ]
+      },
+      {
+        "label": "Giới thiệu",
+        "purpose": "Current page",
+        "box_2d": [
+          18,
+          409,
+          51,
+          458
+        ]
+      },
+      {
+        "label": "Khám phá di tích",
+        "purpose": "Navigate to monument exploration page",
+        "box_2d": [
+          18,
+          483,
+          51,
+          568
+        ]
+      },
+      {
+        "label": "Lễ hội",
+        "purpose": "Navigate to festival page",
+        "box_2d": [
+          18,
+          593,
+          51,
+          626
+        ]
+      },
+      {
+        "label": "Giá trị di sản",
+        "purpose": "Navigate to heritage values page",
+        "box_2d": [
+          18,
+          652,
+          51,
+          715
+        ]
+      },
+      {
+        "label": "Gìn giữ",
+        "purpose": "Navigate to preservation page",
+        "box_2d": [
+          18,
+          740,
+          51,
+          778
+        ]
+      },
+      {
+        "label": "Thư viện",
+        "purpose": "Navigate to library page",
+        "box_2d": [
+          18,
+          804,
+          51,
+          848
+        ]
+      },
+      {
+        "label": "Search Icon",
+        "purpose": "Open search function",
+        "box_2d": [
+          16,
+          917,
+          54,
+          946
+        ]
+      },
+      {
+        "label": "Trang chủ (breadcrumb)",
+        "purpose": "Navigate to home",
+        "box_2d": [
+          330,
+          36,
+          353,
+          103
+        ]
+      },
+      {
+        "label": "Giới thiệu (breadcrumb)",
+        "purpose": "Navigate to introduction",
+        "box_2d": [
+          330,
+          118,
+          353,
+          166
+        ]
+      },
+      {
+        "label": "1. Vị trí di tích",
+        "purpose": "Navigate to location section",
+        "box_2d": [
+          378,
+          23,
+          454,
+          201
+        ]
+      },
+      {
+        "label": "2. Lịch sử hình thành và những đổi thay",
+        "purpose": "Current active section",
+        "box_2d": [
+          454,
+          23,
+          533,
+          201
+        ]
+      },
+      {
+        "label": "3. Nhân vật lịch sử",
+        "purpose": "Navigate to historical figures section",
+        "box_2d": [
+          533,
+          23,
+          610,
+          201
+        ]
+      },
+      {
+        "label": "4. Kiến trúc",
+        "purpose": "Navigate to architecture section",
+        "box_2d": [
+          616,
+          23,
+          693,
+          201
+        ]
+      },
+      {
+        "label": "5. Những đồ vật được lưu giữ",
+        "purpose": "Navigate to artifacts section",
+        "box_2d": [
+          693,
+          23,
+          783,
+          201
+        ]
+      }
+    ]
+  },
+  "architecture.png": {
+    "screen_name": "Kiến trúc Đình làng Sở Thượng",
+    "theme": "Educational / Heritage exploration for children",
+    "text_content": [
+      "LĂNG KÍNH DIỆU KÌ",
+      "ĐÌNH LÀNG SỞ THƯỢNG",
+      "Trang chủ",
+      "Giới thiệu",
+      "Khám phá di tích",
+      "Lễ hội",
+      "Giá trị di sản",
+      "Gìn giữ",
+      "Thư viện",
+      "Cùng Măng Non khám phá kiến trúc độc đáo của đình làng Sở Thượng nhé!",
+      "KIẾN TRÚC",
+      "ĐÌNH LÀNG SỞ THƯỢNG",
+      "Nét đẹp truyền thống của quê hương",
+      "\"Những mái đình cong vươn lên như lưu giữ hồn xưa của làng Việt.\"",
+      "Trang chủ > Khám phá di tích > Kiến trúc",
+      "1. Lịch sử",
+      "2. Linh Lang Đại Vương",
+      "3. Kiến trúc",
+      "4. Hiện vật",
+      "Tổng quan kiến trúc",
+      "Đình làng Sở Thượng có cổng, nghi môn, sân, nhà khách và khu thờ chính. Khu thờ chính gồm ba phần: Đại bái, Trung cung và Hậu cung. Từ cổng đi qua sân là đến Đại bái; phía trong là Trung cung và Hậu cung, nơi đặt các đồ thờ và thờ vị thần của làng.",
+      "Mái đình lợp ngói, có các góc mái cong. Trên kiến trúc có những hình trang trí như rồng, phượng và các hoa văn truyền thống. Những chi tiết ấy làm cho ngôi đình thêm trang nghiêm, đồng thời cho thấy sự khéo léo của những người thợ xưa. Kiến trúc đình làng là một phần trong vẻ đẹp văn hóa truyền thống của người Việt.",
+      "Sơ đồ kiến trúc đình làng Sở Thượng (Ảnh minh họa)",
+      "Hậu cung",
+      "Trung cung",
+      "Đại bái",
+      "Sân đình",
+      "Nghi môn",
+      "Cổng đình",
+      "Kiến trúc đình làng thể hiện tài hoa và sự khéo léo của những người thợ xưa.",
+      "Các khu vực chính",
+      "1 Cổng đình",
+      "Là lối vào của đình, được xây dựng theo lối kiến trúc truyền thống.",
+      "2 Nghi môn",
+      "Là cổng lễ, tạo không gian trang trọng khi vào sân đình.",
+      "3 Sân đình",
+      "Là khoảng sân rộng, nơi diễn ra các hoạt động văn hóa, lễ hội.",
+      "4 Đại bái",
+      "Là khu thờ chính đầu tiên, nơi diễn ra các nghi lễ.",
+      "5 Trung cung",
+      "Nằm phía trong Đại bái, là nơi đặt một số đồ thờ.",
+      "6 Hậu cung",
+      "Nằm trong cùng, nơi đặt các đồ thờ và thờ vị thần của làng.",
+      "7 Nhà khách",
+      "Là nơi đón tiếp khách đến thăm đình.",
+      "Nhà khách"
+    ],
+    "interactive_elements": [
+      {
+        "label": "Trang chủ (header)",
+        "purpose": "Go to home screen",
+        "box_2d": [
+          18,
+          332,
+          45,
+          381
+        ]
+      },
+      {
+        "label": "Giới thiệu",
+        "purpose": "Go to introduction screen",
+        "box_2d": [
+          18,
+          406,
+          45,
+          456
+        ]
+      },
+      {
+        "label": "Khám phá di tích",
+        "purpose": "Go to explore screen",
+        "box_2d": [
+          18,
+          481,
+          45,
+          563
+        ]
+      },
+      {
+        "label": "Lễ hội",
+        "purpose": "Go to festival screen",
+        "box_2d": [
+          18,
+          591,
+          45,
+          623
+        ]
+      },
+      {
+        "label": "Giá trị di sản",
+        "purpose": "Go to heritage values screen",
+        "box_2d": [
+          18,
+          650,
+          45,
+          713
+        ]
+      },
+      {
+        "label": "Gìn giữ",
+        "purpose": "Go to conservation screen",
+        "box_2d": [
+          18,
+          740,
+          45,
+          777
+        ]
+      },
+      {
+        "label": "Thư viện",
+        "purpose": "Go to library screen",
+        "box_2d": [
+          18,
+          804,
+          45,
+          846
+        ]
+      },
+      {
+        "label": "Search icon",
+        "purpose": "Open search modal",
+        "box_2d": [
+          18,
+          917,
+          48,
+          946
+        ]
+      },
+      {
+        "label": "1. Lịch sử",
+        "purpose": "Navigate to history section",
+        "box_2d": [
+          376,
+          24,
+          423,
+          201
+        ]
+      },
+      {
+        "label": "2. Linh Lang Đại Vương",
+        "purpose": "Navigate to deity history section",
+        "box_2d": [
+          444,
+          24,
+          492,
+          201
+        ]
+      },
+      {
+        "label": "3. Kiến trúc",
+        "purpose": "Navigate to architecture section",
+        "box_2d": [
+          501,
+          24,
+          567,
+          201
+        ]
+      },
+      {
+        "label": "4. Hiện vật",
+        "purpose": "Navigate to artifacts section",
+        "box_2d": [
+          587,
+          24,
+          637,
+          201
+        ]
+      }
+    ]
+  },
+  "artifacts.png": {
+    "screen_name": "Khám phá di tích - Những đồ vật được lưu giữ",
+    "theme": "Heritage, Education, Cultural site exploration",
+    "text_content": [
+      "LĂNG KÍNH DIỆU KÌ",
+      "ĐÌNH LÀNG SỜ THƯỢNG",
+      "Trang chủ",
+      "Giới thiệu",
+      "Khám phá di tích",
+      "Lễ hội",
+      "Giá trị di sản",
+      "Gìn giữ",
+      "Thư viện",
+      "CÙNG Măng Non khám phá những hiện vật quý giá trong đình làng Sở Thượng nhé!",
+      "KHÁM PHÁ DI TÍCH",
+      "NHỮNG ĐỒ VẬT ĐƯỢC LƯU GIỮ TRONG ĐÌNH",
+      "Mỗi hiện vật đều kể cho chúng ta một câu chuyện về lịch sử, nghệ thuật và phong tục của người xưa.",
+      "Trang chủ > Khám phá di tích > Những đồ vật được lưu giữ",
+      "1. Lịch sử",
+      "2. Linh Lang Đại Vương",
+      "3. Kiến trúc",
+      "4. Hiện vật",
+      "5. Những đồ vật được lưu giữ",
+      "Những hiện vật quý giá",
+      "Đình làng Sở Thượng còn lưu giữ nhiều đồ thờ và hiện vật có giá trị. Có thể kể đến sắc phong, hoành phi, câu đối, cửa võng, bát hương, chân nến, lư hương, ngai thờ và bài vị. Một số hiện vật được làm bằng gỗ, đồng hoặc giấy. Những đồ vật này không chỉ dùng trong việc thờ cúng mà còn giúp chúng ta tìm hiểu lịch sử, nghệ thuật và phong tục của người xưa.",
+      "1 Sắc phong",
+      "Sắc phong là văn bản do vua ban, ghi nhận công lao của vị thần.",
+      "2 Hoành phi",
+      "Hoành phi là tấm bảng lớn đề chữ, thường được treo ở gian chính.",
+      "3 Câu đối",
+      "Câu đối là những câu chữ thể hiện lòng tôn kính và ước nguyện.",
+      "4 Cửa võng",
+      "Cửa võng được chạm khắc tinh xảo, tạo vẻ trang nghiêm cho không gian thờ.",
+      "5 Bát hương",
+      "Bát hương dùng để thắp hương trong thờ cúng.",
+      "6 Chân nến",
+      "Chân nến dùng để đặt nến trong các nghi lễ.",
+      "7 Lư hương",
+      "Lư hương dùng để đốt hương, thường được đặt trước ban thờ.",
+      "8 Ngai thờ",
+      "Ngai thờ là nơi đặt bài vị của vị thần.",
+      "9 Bài vị",
+      "Bài vị là tấm gỗ khắc tên vị thần được thờ trong đình.",
+      "Vì sao cần bảo quản?",
+      "Các hiện vật giúp chúng ta hiểu thêm về lịch sử, nghệ thuật và phong tục của người xưa. Vì vậy, các hiện vật cần được bảo quản cẩn thận, không tự ý chạm vào, di chuyển hoặc làm hư hỏng khi đến tham quan di tích.",
+      "Những hiện vật trong đình làng Sở Thượng là những di sản quý báu của quê hương. Chúng ta cùng giữ gìn và trân trọng nhé!",
+      "CÙNG Măng Non thực hiện những việc làm đúng khi tham quan:",
+      "Đi nhẹ, nói khẽ.",
+      "Quan sát bằng mắt.",
+      "Không chạm vào hiện vật.",
+      "Không tự ý di chuyển đồ thờ.",
+      "Giữ gìn không gian luôn sạch sẽ.",
+      "Bảo vệ hiện vật là góp phần giữ gìn di sản của quê hương cho mai sau!"
+    ],
+    "interactive_elements": [
+      {
+        "label": "Trang chủ (Header)",
+        "purpose": "go to home",
+        "box_2d": [
+          20,
+          331,
+          48,
+          381
+        ]
+      },
+      {
+        "label": "Giới thiệu",
+        "purpose": "go to giới thiệu",
+        "box_2d": [
+          20,
+          407,
+          48,
+          455
+        ]
+      },
+      {
+        "label": "Khám phá di tích",
+        "purpose": "active page",
+        "box_2d": [
+          20,
+          481,
+          48,
+          563
+        ]
+      },
+      {
+        "label": "Lễ hội",
+        "purpose": "go to lễ hội",
+        "box_2d": [
+          20,
+          592,
+          48,
+          621
+        ]
+      },
+      {
+        "label": "Giá trị di sản",
+        "purpose": "go to giá trị di sản",
+        "box_2d": [
+          20,
+          650,
+          48,
+          712
+        ]
+      },
+      {
+        "label": "Gìn giữ",
+        "purpose": "go to gìn giữ",
+        "box_2d": [
+          20,
+          741,
+          48,
+          777
+        ]
+      },
+      {
+        "label": "Thư viện",
+        "purpose": "go to thư viện",
+        "box_2d": [
+          20,
+          804,
+          48,
+          846
+        ]
+      },
+      {
+        "label": "Search icon",
+        "purpose": "open search",
+        "box_2d": [
+          18,
+          925,
+          52,
+          946
+        ]
+      },
+      {
+        "label": "1. Lịch sử",
+        "purpose": "go to lịch sử",
+        "box_2d": [
+          323,
+          21,
+          388,
+          194
+        ]
+      },
+      {
+        "label": "2. Linh Lang Đại Vương",
+        "purpose": "go to linh lang đại vương",
+        "box_2d": [
+          403,
+          21,
+          468,
+          194
+        ]
+      },
+      {
+        "label": "3. Kiến trúc",
+        "purpose": "go to kiến trúc",
+        "box_2d": [
+          471,
+          21,
+          536,
+          194
+        ]
+      },
+      {
+        "label": "4. Hiện vật",
+        "purpose": "go to hiện vật",
+        "box_2d": [
+          538,
+          21,
+          603,
+          194
+        ]
+      },
+      {
+        "label": "5. Những đồ vật được lưu giữ",
+        "purpose": "current section",
+        "box_2d": [
+          591,
+          21,
+          659,
+          194
+        ]
+      }
+    ]
+  },
+  "linh-lang.png": {
+    "screen_name": "Nhân vật lịch sử Linh Lang Đại Vương",
+    "theme": "Historical and cultural educational website",
+    "text_content": [
+      "LĂNG KÍNH DIỆU KÌ ĐÌNH LÀNG SỞ THƯỢNG",
+      "Trang chủ",
+      "Giới thiệu",
+      "Khám phá di tích",
+      "Lễ hội",
+      "Giá trị di sản",
+      "Gìn giữ",
+      "Thư viện",
+      "CÙNG Măng Non tìm hiểu về vị anh hùng Linh Lang Đại Vương nhé!",
+      "Giới thiệu",
+      "NHÂN VẬT LỊCH SỬ LINH LANG ĐẠI VƯƠNG",
+      "Linh Lang Đại Vương là biểu tượng của lòng yêu nước, trí dũng và tinh thần bảo vệ quê hương, đất nước.",
+      "Trang chủ > Giới thiệu > Nhân vật lịch sử",
+      "1. Vị trí di tích",
+      "2. Lịch sử hình thành và những đổi thay",
+      "3. Nhân vật lịch sử",
+      "4. Kiến trúc",
+      "5. Những đồ vật được lưu giữ",
+      "Linh Lang Đại Vương là ai?",
+      "Đình làng Sở Thượng thờ Linh Lang Đại Vương, tương truyền là Hoàng tử Hoàng Chân, con trai thứ tư của vua Lý Thánh Tông. Theo truyền thuyết, khi quân Tống xâm lược nước ta, Linh Lang Đại Vương đã đứng lên đánh giặc và giúp bảo vệ đất nước.",
+      "Hoàng tử Hoàng Chân (tương truyền là Linh Lang Đại Vương)",
+      "Tại sao được thờ phụng ở đình làng Sở Thượng?",
+      "Sau khi Ngài mất, người dân lập nơi thờ phụng để tưởng nhớ công lao. Qua nhiều thế hệ, nhân dân đến đình dâng hương, bày tỏ lòng biết ơn và cầu mong cuộc sống bình an, mùa màng thuận lợi.",
+      "Đánh giặc, bảo vệ đất nước",
+      "Linh Lang Đại Vương đã đứng lên đánh giặc, giúp bảo vệ đất nước theo truyền thuyết.",
+      "Trong lòng người dân",
+      "Câu chuyện về Linh Lang Đại Vương thể hiện truyền thống yêu nước và lòng biết ơn những người có công với quê hương, đất nước. Ngài là niềm tự hào của người dân địa phương và được tôn kính qua nhiều thế hệ.",
+      "Từ câu chuyện của Linh Lang Đại Vương, chúng ta học được gì?",
+      "Lòng yêu nước.",
+      "Biết ơn những người có công với quê hương, đất nước.",
+      "Trân trọng và giữ gìn di sản văn hóa của địa phương."
+    ],
+    "interactive_elements": [
+      {
+        "label": "Trang chủ",
+        "purpose": "go to home page",
+        "box_2d": [
+          23,
+          335,
+          45,
+          384
+        ]
+      },
+      {
+        "label": "Giới thiệu",
+        "purpose": "go to introduction page",
+        "box_2d": [
+          23,
+          410,
+          45,
+          457
+        ]
+      },
+      {
+        "label": "Khám phá di tích",
+        "purpose": "go to exploration page",
+        "box_2d": [
+          23,
+          483,
+          45,
+          564
+        ]
+      },
+      {
+        "label": "Lễ hội",
+        "purpose": "go to festival page",
+        "box_2d": [
+          23,
+          592,
+          45,
+          622
+        ]
+      },
+      {
+        "label": "Giá trị di sản",
+        "purpose": "go to heritage values page",
+        "box_2d": [
+          23,
+          650,
+          45,
+          715
+        ]
+      },
+      {
+        "label": "Gìn giữ",
+        "purpose": "go to preservation page",
+        "box_2d": [
+          23,
+          740,
+          45,
+          775
+        ]
+      },
+      {
+        "label": "Thư viện",
+        "purpose": "go to library page",
+        "box_2d": [
+          23,
+          803,
+          45,
+          846
+        ]
+      },
+      {
+        "label": "Search icon",
+        "purpose": "open search field",
+        "box_2d": [
+          18,
+          921,
+          52,
+          946
+        ]
+      },
+      {
+        "label": "Trang chủ (breadcrumb)",
+        "purpose": "go to home page",
+        "box_2d": [
+          347,
+          36,
+          363,
+          80
+        ]
+      },
+      {
+        "label": "Giới thiệu (breadcrumb)",
+        "purpose": "go to introduction page",
+        "box_2d": [
+          347,
+          95,
+          363,
+          137
+        ]
+      },
+      {
+        "label": "Nhân vật lịch sử (breadcrumb)",
+        "purpose": "stay on current page",
+        "box_2d": [
+          347,
+          153,
+          363,
+          222
+        ]
+      },
+      {
+        "label": "1. Vị trí di tích",
+        "purpose": "go to location screen",
+        "box_2d": [
+          402,
+          28,
+          436,
+          146
+        ]
+      },
+      {
+        "label": "2. Lịch sử hình thành",
+        "purpose": "go to history screen",
+        "box_2d": [
+          468,
+          28,
+          513,
+          189
+        ]
+      },
+      {
+        "label": "3. Nhân vật lịch sử",
+        "purpose": "stay on current page",
+        "box_2d": [
+          529,
+          26,
+          597,
+          212
+        ]
+      },
+      {
+        "label": "4. Kiến trúc",
+        "purpose": "go to architecture screen",
+        "box_2d": [
+          617,
+          28,
+          652,
+          138
+        ]
+      },
+      {
+        "label": "5. Những đồ vật được lưu giữ",
+        "purpose": "go to artifacts screen",
+        "box_2d": [
+          693,
+          28,
+          735,
+          161
+        ]
+      }
+    ]
+  },
+  "location.png": {
+    "screen_name": "Giới thiệu - Vị trí di tích",
+    "theme": "Educational and cultural information about So Thuong communal house",
+    "text_content": [
+      "LĂNG KÍNH DIỆU KÌ",
+      "ĐÌNH LÀNG SỞ THƯỢNG",
+      "Trang chủ",
+      "Giới thiệu",
+      "Khám phá di tích",
+      "Lễ hội",
+      "Giá trị di sản",
+      "Gìn giữ",
+      "Thư viện",
+      "Giới thiệu",
+      "ĐÌNH LÀNG",
+      "SỞ THƯỢNG",
+      "Cùng Măng Non khám phá vị trí của đình làng Sở Thượng nhé!",
+      "Trang chủ > Giới thiệu > Vị trí di tích",
+      "1. Vị trí di tích",
+      "2. Lịch sử hình thành và những đổi thay",
+      "3. Nhân vật lịch sử",
+      "4. Kiến trúc",
+      "5. Những đồ vật được lưu giữ",
+      "1. Vị trí di tích",
+      "Đình làng Sở Thượng là một di tích Lịch sử - Nghệ thuật của Hà Nội. Theo hồ sơ di tích năm 2018, đình nằm ở phường Yên Sở, quận Hoàng Mai, thành phố Hà Nội (nay thuộc tổ 24, nhà số 2, phố Hưng Phúc, phường Yên Sở, thành phố Hà Nội). Đình ở đối diện chùa Sở Thượng, còn gọi là Hưng Phúc tự.",
+      "Cổng đình làng Sở Thượng (Ảnh minh họa)",
+      "Đình nằm đối diện chùa Sở Thượng (Hưng Phúc tự)",
+      "Chùa Sở Thượng (Hưng Phúc tự)",
+      "Đình làng trong đời sống cộng đồng",
+      "Từ xa xưa, Sở Thượng đã là một vùng đất có lịch sử lâu đời. Trải qua nhiều thay đổi, tên gọi và địa giới hành chính của địa phương cũng thay đổi theo thời gian. Ngày nay, đình vẫn là nơi sinh hoạt văn hóa, tín ngưỡng quan trọng của người dân trong khu vực.",
+      "Đình làng Sở Thượng nằm ở phường Yên Sở, thành phố Hà Nội, đối diện chùa Sở Thượng (Hưng Phúc tự).",
+      "Hướng dẫn đường đi",
+      "Để đến di tích, du khách có thể đi bằng nhiều hướng khác nhau, nhưng thuận tiện là đi theo lộ trình sau:",
+      "1",
+      "Từ trung tâm Thành phố Hà Nội (Bưu điện Bờ Hồ)",
+      "2",
+      "Đi theo các tuyến phố ra Cửa Nam - Lê Duẩn - Giải Phóng - Giáp Bát",
+      "3",
+      "Tới cầu Thanh Trì rẽ trái qua công viên Yên Sở khoảng 2 km",
+      "4",
+      "Sau rẽ phải vào cổng làng Sở Thượng, phường Yên Sở là tới di tích, đối diện với chùa Sở Thượng (Hưng Phúc tự).",
+      "Đường đi phù hợp với các loại phương tiện giao thông đường bộ."
+    ],
+    "interactive_elements": [
+      {
+        "label": "Trang chủ",
+        "purpose": "Navigate to home screen",
+        "box_2d": [
+          18,
+          332,
+          45,
+          381
+        ]
+      },
+      {
+        "label": "Giới thiệu",
+        "purpose": "Stay on introduction screen",
+        "box_2d": [
+          18,
+          407,
+          45,
+          457
+        ]
+      },
+      {
+        "label": "Khám phá di tích",
+        "purpose": "Navigate to Explore relics screen",
+        "box_2d": [
+          18,
+          481,
+          45,
+          566
+        ]
+      },
+      {
+        "label": "Lễ hội",
+        "purpose": "Navigate to Festivals screen",
+        "box_2d": [
+          18,
+          592,
+          45,
+          622
+        ]
+      },
+      {
+        "label": "Giá trị di sản",
+        "purpose": "Navigate to Heritage values screen",
+        "box_2d": [
+          18,
+          650,
+          45,
+          712
+        ]
+      },
+      {
+        "label": "Gìn giữ",
+        "purpose": "Navigate to Conservation screen",
+        "box_2d": [
+          18,
+          740,
+          45,
+          777
+        ]
+      },
+      {
+        "label": "Thư viện",
+        "purpose": "Navigate to Library screen",
+        "box_2d": [
+          18,
+          802,
+          45,
+          843
+        ]
+      },
+      {
+        "label": "Search icon",
+        "purpose": "Open search field",
+        "box_2d": [
+          16,
+          915,
+          50,
+          940
+        ]
+      },
+      {
+        "label": "1. Vị trí di tích",
+        "purpose": "Stay on current sub-section",
+        "box_2d": [
+          328,
+          31,
+          394,
+          216
+        ]
+      },
+      {
+        "label": "2. Lịch sử hình thành và những đổi thay",
+        "purpose": "Navigate to History subsection",
+        "box_2d": [
+          415,
+          31,
+          482,
+          216
+        ]
+      },
+      {
+        "label": "3. Nhân vật lịch sử",
+        "purpose": "Navigate to Historical Figures subsection",
+        "box_2d": [
+          504,
+          31,
+          570,
+          216
+        ]
+      },
+      {
+        "label": "4. Kiến trúc",
+        "purpose": "Navigate to Architecture subsection",
+        "box_2d": [
+          573,
+          31,
+          638,
+          216
+        ]
+      },
+      {
+        "label": "5. Những đồ vật được lưu giữ",
+        "purpose": "Navigate to Artifacts subsection",
+        "box_2d": [
+          641,
+          31,
+          706,
+          216
+        ]
+      }
+    ]
+  }
+}
